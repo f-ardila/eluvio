@@ -2,9 +2,11 @@
 __pycache__/
 *.py[cod]
 *$py.class
+.DS*
 
 # large data files
 *.csv
+glove*
 
 # C extensions
 *.so
